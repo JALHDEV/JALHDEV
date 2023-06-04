@@ -1,5 +1,9 @@
 # ¡Hola! 👋 Soy José Andrés
 Un entusiasta desarrollador de software, comprometido con la excelencia. En este espacio, compartiré mis proyectos y aportes en programación, con la meta de crear soluciones eficientes y de calidad. Busco constantemente crecer como profesional en este apasionante campo. ¡Te doy la más cordial bienvenida a mi perfil de GitHub!🚀
+##
+### 🤝 Colaboración 
+Estoy siempre interesado en colaborar en proyectos interesantes y desafiantes. Si tienes alguna idea o proyecto en el que creas que pueda contribuir, no dudes en contactarme. Estoy abierto a oportunidades de trabajo o colaboración en proyectos de código abierto.
+##
 ### 💻 Tecnologías 
 <details>
   <summary>Desarrollo Web</summary>
@@ -89,9 +93,6 @@ Un entusiasta desarrollador de software, comprometido con la excelencia. En este
   </p>
 </details>
 
-##
-### 🤝 Colaboración 
-Estoy siempre interesado en colaborar en proyectos interesantes y desafiantes. Si tienes alguna idea o proyecto en el que creas que pueda contribuir, no dudes en contactarme. Estoy abierto a oportunidades de trabajo o colaboración en proyectos de código abierto.
 ##
 ### 🎉 ¡Gracias por visitar mi perfil de GitHub! 
 Si tienes alguna pregunta o te gustaría conocer más sobre mi trabajo, no dudes en contactarme. Estoy emocionado de seguir creciendo como profesional y contribuir al éxito de los proyectos en los que participe.
